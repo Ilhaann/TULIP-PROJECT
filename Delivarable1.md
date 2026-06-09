@@ -232,17 +232,17 @@ The schematics below describe three different circuit architectures using the co
 ### 4a. Design A: 1 ESP32S + 1 MQ-5 + 1 DHT22 + 1 LCD
 
 
-![Schematic A]("/images/DESIGN A.png")
+![Schematic A]("/images/Design A.png")
 
 
 ### 4b. Design B: ESP32S-A ↔ MQ-5 ←→ ESP32S-B ↔ DHT22 (Direct Serial)
 
 
-![Schematic A]("/images/DESIGN B.jpg")
+![Schematic A]("/images/Design B.jpg")
 
 
 ### 4c. Design C: ESP32S-A ↔ DHT22 → Relay → ESP32S-B ↔ MQ-5
 
 
-![Schematic A]("/images/DESIGN C.png")
+![Schematic A]("/images/Design C.png")
 
