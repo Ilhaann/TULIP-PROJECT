@@ -33,9 +33,9 @@ Flora Farms operates solar-powered greenhouses in Naivasha, each dedicated to a 
 
 ## 1. Flower Growth Environmental Requirements
 
-> **Assigned Flower: Tulip (*Tulipa* spp.)**
->
-> Tulips are cool-season bulb flowers native to Central Asia and are among the most widely grown ornamental flowers in the world. They have precise temperature and drainage requirements, making them an excellent subject for embedded environmental monitoring.
+**Assigned Flower: Tulip (*Tulipa* spp.)**
+
+Tulips are cool-season bulb flowers native to Central Asia and are among the most widely grown ornamental flowers in the world. They have precise temperature and drainage requirements, making them an excellent subject for embedded environmental monitoring.
 
 The table below summarises the optimal environmental parameters required for healthy tulip growth. These measurements will serve as reference thresholds for the embedded monitoring system.
 
