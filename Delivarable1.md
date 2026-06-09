@@ -246,3 +246,5 @@ The schematics below describe three different circuit architectures using the co
 
 ![Schematic A]("/Images/Design C.png")
 
+
+![EVIDENCE GROUPWORK](/images/EVIDENCE GROUPWORK.jpeg)
